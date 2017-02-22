@@ -5,23 +5,7 @@
 </head>
 <body>
 
-<!--
-  Personagraph test2
-  Campaign: BURGERKING_BRANDING_&amp;_PERFORMANCE_MAY_JUN16_M
-  App/Site: India Today - Site
-  320 x 50
--->
 
-<script type="text/javascript">
-
-(function(s,n,u,o,i){ 
-for(i in o)o.hasOwnProperty(i)&&(u+='&'+i+'='+encodeURIComponent(o[i]));document.write('<script src="'+(location.protocol=='https:'?s+u:n+u+decodeURI('" onerror="document.write(%27<script src=%5c%27')+s+u+decodeURI('%5c%27><%27+%27/script>%27)'))+'"><'+'/script>'); 
-}('https://s-cdn-tag.medialytics.com','http://tag.medialytics.com','/tag?format=dw',{
-  tagID: "s438b0d39a7904c25bf20a976af439878",
-  click: "$$_DESTINATION_URL_$$",
-  imppx: ""
-})); 
-</script>
 <noscript>
 <a target="_blank" href="http://clk.medialytics.com/href?0.type=i&0.key=MMAdClickthrough&tagID=s438b0d39a7904c25bf20a976af439878&impunique=RANDOM"> 
 <img src="http://c.medialytics.com/creative?type=s&tagID=s438b0d39a7904c25bf20a976af439878&impunique=RANDOM" width="320" height="50"/>
